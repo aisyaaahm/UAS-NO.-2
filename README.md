@@ -5,7 +5,7 @@
 <br>Jurusan		    :[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-ource code yang digunakan untuk membuat array dua dimensi. Program yang digunakan untuk mencari bilangan yang tidak habis dibagi 3,5,7.
+Source code yang digunakan untuk membuat array dua dimensi. Program yang digunakan untuk mencari bilangan yang tidak habis dibagi 3,5,7.
 Dengan algoritma :
 1. User menginputkan banyaknya baris dan kolom dengan jangkauan 0-20
 2. User menginputkan nilai array satu persatu
